@@ -24,7 +24,7 @@
 
     <distributionManagement>
         <repository>
-            <id>nexus_cred</id>
+            <id>nexus_repo</id>
             <url>http://192.168.33.10:8081/repository/nexus_repo/</url>
         </repository>
     </distributionManagement>
